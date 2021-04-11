@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    J. Desmond
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Node, Snowpack, Mocha, Modernizr, Normalize.css
