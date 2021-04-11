@@ -1,0 +1,23 @@
+{
+  "name": "actualjeopardy",
+  "version": "1.0.0",
+  "description": "A web-app display for running virtual or in person Jeopardy games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshDesmond/ActualJeopardy.git"
+  },
+  "author": "J. Desmond",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JoshDesmond/ActualJeopardy/issues"
+  },
+  "homepage": "https://github.com/JoshDesmond/ActualJeopardy#readme",
+  "devDependencies": {
+    "mocha": "^8.3.2",
+    "snowpack": "^3.2.2"
+  }
+}
